@@ -8,3 +8,7 @@ AQUA MAJI TENSHI
 
 avatar: りんごぱん
 banner: Ryan
+
+### Security Warning
+
+**ALL** Commits by me will be signed with a GPG key.
